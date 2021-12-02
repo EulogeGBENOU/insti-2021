@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204396484237",
+    "project_id": "verckys-8758c",
+    "storage_bucket": "verckys-8758c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204396484237:android:21c3c3208285dc7c39f4c4",
+        "android_client_info": {
+          "package_name": "io.artcreativity.monpremierprojet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204396484237-llghden7ne8mki2fbpkolb4259e4bg6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgQQELUbSsbvJgmfgSmKDnqqJGMRu3B80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204396484237-llghden7ne8mki2fbpkolb4259e4bg6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
